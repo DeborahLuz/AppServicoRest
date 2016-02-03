@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppServicoRest</string>
+    <string name="IMC"> IMC</string>
+    <string name="VCT"> VCT</string>
+    <string name="Perfil Antropometrico"> Perfil Antropometrico</string>
+>        <string name="calcular_imc">Calcular IMC</string>
+    <string name="calcular_vct">Calcular VCT</string>
+    <string name="perfil_antropometrico">Calcular PA</string>
+    <string name="action_settings">Settings</string>
+    <string name="Status_Service"> Status Service</string>
+    <string name="splash_screen_activity">Splash Screen</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_calcular_ic">CalcularICActivity</string>
+    <string name="title_activity_imc">ImcActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_vct">VctActivity</string>
+
+</resources>
